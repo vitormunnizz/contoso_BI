@@ -44,5 +44,5 @@ A versão em PDF do dashboard está disponível no arquivo [`dashboard.pdf`](das
 ## Contato
 
 **Vitor Muniz**
-[vitormunnizz@gmail.com](mailto:vitormunnizz@gmail.com)
+[vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
 
