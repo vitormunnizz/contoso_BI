@@ -31,7 +31,7 @@ O dashboard foi construído no **Looker Studio** e apresenta:
 A versão em PDF do dashboard está disponível no arquivo [`dashboard.pdf`](dashboard.pdf).
 
 
-## Tecnologias Utilizadas
+## 🎛 Tecnologias Utilizadas
 
 * **Python** (pandas, numpy)
 * **SQL** (view de agregação)
