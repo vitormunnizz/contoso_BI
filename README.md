@@ -41,8 +41,16 @@ A versão em PDF do dashboard está disponível no arquivo [`dashboard.pdf`](das
 * **Google Looker Studio**
 * **Jupyter Notebook**
 
-## Contato
+## 👨‍💻 Autor
 
-**Vitor Muniz**
-[vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
+**Vitor Hugo Muniz de Sousa Santos**
 
+📧 [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
+🌐 [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
+
+## 📝 Licença
+
+Este projeto está licenciado sob a **MIT License**.
+Sinta-se livre para usar e modificar conforme necessário, mantendo os créditos ao autor.
+
+⭐ **Se este projeto te ajudou, deixe uma estrela no repositório!**```
