@@ -42,6 +42,8 @@ A versão em PDF do dashboard está disponível no arquivo [`dashboard.pdf`](das
 
 **Vitor Hugo Muniz de Sousa Santos**
 
+💼 Engenheiro de Computação | Cientista de Dados
+
 📧 [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
 🌐 [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
 
